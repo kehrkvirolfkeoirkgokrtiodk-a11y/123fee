@@ -20,7 +20,7 @@ local speedEnabled = false
 local gravityEnabled = false
 local espEnabled = false
 
-local speed = 45
+local speed = 36
 local customGravity = 60
 local customJumpPower = 45
 
@@ -337,3 +337,4 @@ EspBtn.MouseButton1Click:Connect(function()
     toggleESP(espEnabled)
 
 end)
+
