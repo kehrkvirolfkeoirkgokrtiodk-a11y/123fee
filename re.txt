@@ -1,4 +1,4 @@
-local message = "ууу"
+local message = "more script keyless here https://discord.gg/KXY9VTX4"
 
 pcall(function()
     setclipboard(message)
@@ -20,7 +20,7 @@ local speedEnabled = false
 local gravityEnabled = false
 local espEnabled = false
 
-local speed = 28
+local speed = 31
 local customGravity = 60
 local customJumpPower = 45
 
@@ -335,15 +335,4 @@ EspBtn.MouseButton1Click:Connect(function()
     end
     
     toggleESP(espEnabled)
-
 end)
-
-
-
-
-
-
-
-
-
-
