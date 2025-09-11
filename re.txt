@@ -21,8 +21,8 @@ local gravityEnabled = false
 local espEnabled = false
 
 local speed = 45
-local customGravity = 80
-local customJumpPower = 60
+local customGravity = 60
+local customJumpPower = 45
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "AlgolHub"
@@ -335,4 +335,5 @@ EspBtn.MouseButton1Click:Connect(function()
     end
     
     toggleESP(espEnabled)
+
 end)
