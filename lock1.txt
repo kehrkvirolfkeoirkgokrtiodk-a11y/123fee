@@ -1,10 +1,10 @@
 lua
 -- Таблица с примерами допустимых ключей
 local valid_keys = {
-    "ABC-123-XYZ",
-    "QWERTY-987-ASDF",
-    "LOVER-LU8-CODE",
-    "SECRET-PASS-WORD"
+    "GEOJHF-F24K-KHRE",
+    "Q0GR6Y-93D7-AFEH",
+    "FFK42LG-L2U8-CLEE",
+    "S8KHX2T-32F8-WKFE"
 }
 
 -- Функция для проверки, является ли введенный ключ допустимым
@@ -63,4 +63,5 @@ local function main()
 end
 
 -- Запуск основной функции
+
 main()
