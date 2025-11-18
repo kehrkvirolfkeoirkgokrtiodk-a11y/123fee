@@ -1,7 +1,7 @@
 -- shoutout discord.gg/nilhub
 local CollectionService = game:GetService("CollectionService")
 local Remote = game:GetService("ReplicatedStorage").packages.Net["RE/SpearFishing/Minigame"]
-
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2585, 144, -1942)
 while task.wait() do
 	for i, v in next, CollectionService:GetTagged("SpearfishingZone") do
 		local Zone = v.ZoneFish
