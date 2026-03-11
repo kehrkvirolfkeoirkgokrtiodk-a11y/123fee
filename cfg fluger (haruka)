@@ -1,0 +1,395 @@
+{
+  "MiddleClickFriend": {
+    "State": false,
+    "KeyBind": -1
+  },
+  "SwingAnimations": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Левая рука X": 0.0,
+      "Левая рука Y": 0.0,
+      "Левая рука Z": 0.0,
+      "Правая рука X": 0.0,
+      "Правая рука Y": 0.0,
+      "Правая рука Z": 0.0,
+      "Режим": "Стандарт"
+    }
+  },
+  "NoFriendDamage": {
+    "State": true,
+    "KeyBind": 48
+  },
+  "InventoryMove": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Безопасный": false
+    }
+  },
+  "AutoTPAccept": {
+    "State": true,
+    "KeyBind": 48,
+    "settings": {
+      "Только друзья": true
+    }
+  },
+  "MidClickPearl": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "NoSlowDown": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Режим": "Grim"
+    }
+  },
+  "NameProtect": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "ChestStealer": {
+    "State": false,
+    "KeyBind": 88,
+    "settings": {
+      "Задержка": 10.0,
+      "Авто октрытие": true
+    }
+  },
+  "ElytraHelper": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Свап": -96,
+      "Фейерверк": -97,
+      "Авто взлёт": true
+    }
+  },
+  "AutoShulker": {
+    "State": false,
+    "KeyBind": 86,
+    "settings": {
+      "Складывать зелья": false
+    }
+  },
+  "PearlPredict": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "ItemScroller": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Задержка": 50.0
+    }
+  },
+  "ContainerF5": {
+    "State": true,
+    "KeyBind": 48
+  },
+  "CameraClip": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "AutoTotem": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Настройка": {
+        "Кристалы": true,
+        "Якорь": true,
+        "Падение": true,
+        "Обсидиан": true
+      },
+      "Возвращать вещь": true,
+      "Не менять шар": true,
+      "Жизни": 3.5,
+      "Радиус до кристала": 6.0,
+      "Радиус до якоря": 6.0,
+      "Радиус до обсы": 6.0
+    }
+  },
+  "WorldTime": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Время": "День"
+    }
+  },
+  "TriggerBot": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Игнор": {
+        "Игроки": false,
+        "Голые": true,
+        "Друзья": true,
+        "Животные": true,
+        "Монстры": true,
+        "Невидимки": false
+      }
+    }
+  },
+  "PotionHud": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Рендер": "Обычный"
+    }
+  },
+  "NameTags": {
+    "State": true,
+    "KeyBind": 344,
+    "settings": {
+      "Игнорировать": {
+        "Друзья": true,
+        "Невидмки": false
+      },
+      "Шрифт": "Клиент",
+      "Размер": 80.0,
+      "Фон": true,
+      "Броня": true,
+      "Зачарования": false,
+      "Цвет фона": {
+        "Red": 20,
+        "Green": 20,
+        "Blue": 20,
+        "Alpha": 150
+      }
+    }
+  },
+  "DropItems": {
+    "State": false,
+    "KeyBind": -1
+  },
+  "AutoSwap": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Только в хотбаре": true,
+      "Режим": "Щит \u0026 Гепл"
+    }
+  },
+  "ArmorHud": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "Schedules": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Рендер": "Обычный",
+      "Режим": "Funtime",
+      "Количество": 5.0
+    }
+  },
+  "NoRender": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Убрать": {
+        "Плохие эффекты": true,
+        "Анимация при уроне": false,
+        "Огонь": true,
+        "БоссБар": false,
+        "Скорбоард": false,
+        "Голограммы": false
+      }
+    }
+  },
+  "FTHelper": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Дезориентация": -1,
+      "Трапка": -1
+    }
+  },
+  "HitBoxes": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Размер": 0.2
+    }
+  },
+  "AutoTool": {
+    "State": false,
+    "KeyBind": 48,
+    "settings": {
+      "Настройки": {
+        "Возвращать вещь": true,
+        "Сохранять вещь": false
+      }
+    }
+  },
+  "Freecam": {
+    "State": false,
+    "KeyBind": 74
+  },
+  "ElytraFix": {
+    "State": false,
+    "KeyBind": -1
+  },
+  "ItemESP": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "NoDelay": {
+    "State": true,
+    "KeyBind": 48,
+    "settings": {
+      "Прыжок": true,
+      "Ставить блоки": true
+    }
+  },
+  "ClickGui": {
+    "State": false,
+    "KeyBind": 344,
+    "settings": {
+      "Цвет": {
+        "Red": 143,
+        "Green": 119,
+        "Blue": 255,
+        "Alpha": 255
+      },
+      "Фоновый цвет": {
+        "Red": 0,
+        "Green": 0,
+        "Blue": 0,
+        "Alpha": 80
+      }
+    }
+  },
+  "StaffList": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "Velocity": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Режим": "Отменить"
+    }
+  },
+  "NoPush": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Игнор": {
+        "Игроки": true,
+        "Вода": true,
+        "Блоки": true
+      }
+    }
+  },
+  "Gamma": {
+    "State": true,
+    "KeyBind": -1
+  },
+  "Tracers": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Цвет": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255,
+        "Alpha": 255
+      },
+      "Цвет друзей": {
+        "Red": 0,
+        "Green": 255,
+        "Blue": 0,
+        "Alpha": 255
+      },
+      "Игнорировать голых": true
+    }
+  },
+  "Arrows": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "Обычный цвет": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255,
+        "Alpha": 255
+      },
+      "Цвет друзей": {
+        "Red": 25,
+        "Green": 227,
+        "Blue": 142,
+        "Alpha": 255
+      },
+      "Размер": 1.0,
+      "Растояние": 50.0,
+      "Игнорировать голых": true
+    }
+  },
+  "XCarry": {
+    "State": false,
+    "KeyBind": -1
+  },
+  "Sprint": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Игнорировать голод": true
+    }
+  },
+  "Aura": {
+    "State": false,
+    "KeyBind": 82,
+    "settings": {
+      "Мод ротации": "Funtime",
+      "Сортировка": "Жизни",
+      "Игнор": {
+        "Игроки": false,
+        "Голые": false,
+        "Друзья": true,
+        "Животные": true,
+        "Монстры": true,
+        "Невидимки": false
+      },
+      "Дистанция": 3.2,
+      "Только криты": true,
+      "Спринт": true,
+      "Отображать цель": true,
+      "Игнор прыгучести": true
+    }
+  },
+  "Hud": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Ватермарка": true,
+      "Стиль": "1",
+      "Обводка": false,
+      "Свечение": true,
+      "Уведомления": true,
+      "Время отображения": 1500.0,
+      "Рендер": "Обычный",
+      "Кейбинды": false,
+      "Трагет Худ": true
+    }
+  },
+  "ESP": {
+    "State": true,
+    "KeyBind": -1,
+    "settings": {
+      "Игнорировать": {
+        "Друзья": true,
+        "Невидмки": false
+      }
+    }
+  },
+  "Fly": {
+    "State": false,
+    "KeyBind": -1,
+    "settings": {
+      "По горизонтали": 0.5,
+      "По вертикали": 0.5
+    }
+  }
+}
